@@ -1,2 +1,2 @@
 # DL
-Things I tried to understand deep learning stuff. 
+Things I tried to understand deep learning stuff
